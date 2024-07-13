@@ -6,7 +6,7 @@
 
 The Maze Project is a raycasting-based 3D maze game implemented in C using the SDL2 library. This project demonstrates fundamental concepts of computer graphics, including raycasting techniques, texture mapping, and basic game mechanics.
 
-[Play the game here](https://your-deployed-site-url.com)
+[Play the game here](https://frank23523.github.io/The-Maze-Project/)
 
 Read more about the development process in my [final project blog article](https://your-blog-article-url.com).
 
