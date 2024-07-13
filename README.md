@@ -10,7 +10,7 @@ The Maze Project is a raycasting-based 3D maze game implemented in C using the S
 
 Read more about the development process in my [final project blog article](https://your-blog-article-url.com).
 
-Author: [Your Name](https://www.linkedin.com/in/frank-anin)
+Author: Frank Anin (https://www.linkedin.com/in/frank-anin)
 
 ## Features
 
